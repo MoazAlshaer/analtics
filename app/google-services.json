@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "502446324357",
+    "project_id": "teest-e58fb",
+    "storage_bucket": "teest-e58fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502446324357:android:399963d802b91ceeff07ec",
+        "android_client_info": {
+          "package_name": "com.example.analysact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502446324357-pifc266bn4mu10shllinmolc40e5v0k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3IbLx-uMmyonbEaF62kfaUdsrS4GrWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502446324357-pifc266bn4mu10shllinmolc40e5v0k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502446324357:android:b566bb44c03c2881ff07ec",
+        "android_client_info": {
+          "package_name": "com.example.navactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502446324357-pifc266bn4mu10shllinmolc40e5v0k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3IbLx-uMmyonbEaF62kfaUdsrS4GrWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502446324357-pifc266bn4mu10shllinmolc40e5v0k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
